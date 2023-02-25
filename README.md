@@ -2,4 +2,4 @@
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning HTML, CSS, and JavaScript.
 
-Connect with me via https://twitter.com/zheraccourci
+Connect with me via https://twitter.com/code_julito
